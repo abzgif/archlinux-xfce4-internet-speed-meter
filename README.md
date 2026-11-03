@@ -1,3 +1,5 @@
+### **Browse more useful projects at:** [bytegif.com](https://bytegif.com)
+
 # XFCE4 Real-Time Network Speed Meter
 
 An ultra-lightweight, high-performance network speed monitor designed specifically for the **XFCE4** desktop environment via the `xfce4-genmon-plugin`. Unlike native panel applets or poorly optimized scripts that use blocking `sleep` commands, this implementation uses a non-blocking **caching mechanism**. This ensures your panel updates flawlessly every single second without causing CPU spikes, panel freezing, or system hangs.
